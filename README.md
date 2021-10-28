@@ -1,6 +1,6 @@
-# Implementação das classes do App MooviFast em java
+#  Projeto App MooviFast 
 
-## Banco de dados
+## Implementação das classes em java
 
 ## Equipe:
 ### Adma Raia Silva, (RA 12109320); 

@@ -1,6 +1,5 @@
 #  Projeto App MooviFast
 
-
 ## Implementação das classes em java
 ### * Atividade 5
 
@@ -8,7 +7,7 @@
 ### * Atividade 6
 
 
-
+_____________________________________________
 
 ## Equipe:
 ### Adma Raia Silva, (RA 12109320); 

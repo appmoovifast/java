@@ -2,10 +2,10 @@
 
 
 ## Implementação das classes em java
-### Atividade 5
+### * Atividade 5
 
 ## Testes unitários
-### Atividade 6
+### * Atividade 6
 
 ## Equipe:
 ### Adma Raia Silva, (RA 12109320); 

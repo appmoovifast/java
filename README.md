@@ -7,8 +7,6 @@
 ### * Atividade 6
 
 
-_____________________________________________
-
 ## Equipe:
 ### Adma Raia Silva, (RA 12109320); 
 ### Carolina Diniz Santos, (RA 12109399); 
